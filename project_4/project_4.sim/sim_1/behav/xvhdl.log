@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ECAD-21/project_4/project_4.srcs/sources_1/new/decoder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity decoder
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ECAD-21/project_4/project_4.srcs/sources_1/new/seg7_control.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity seg7_control
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ECAD-21/project_4/project_4.srcs/sources_1/new/top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity top
